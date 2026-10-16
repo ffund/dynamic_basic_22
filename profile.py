@@ -1,4 +1,14 @@
-"""Topology for Dynamic Routing RIP and ICMP experiments"""
+"""
+## Dynamic routing
+
+Topology for dynamic routing RIP and ICMP experiments.
+
+Lab instructions:
+
+- [Reserve resources on CloudLab](https://ffund.github.io/tcp-ip-essentials/lab-dynamic-basic/reserve-cloudlab)
+- [RIP](https://ffund.github.io/tcp-ip-essentials/lab-dynamic-basic/rip.html)
+- [ICMP](https://ffund.github.io/tcp-ip-essentials/lab-dynamic-basic/icmp.html)
+"""
 
 #
 # NOTE: This code was machine converted. An actual human would not
